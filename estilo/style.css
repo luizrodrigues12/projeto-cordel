@@ -54,10 +54,12 @@ section {
     padding-bottom: 8vh;
     line-height: 1.9em;
 }
+
 section.imagem {
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.671);
     background-attachment: fixed;
 }
+
 section > p {
     padding-left: 20px;
     font-family: var(--fonte3);
